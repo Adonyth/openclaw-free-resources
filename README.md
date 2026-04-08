@@ -3,7 +3,7 @@
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-Free%20Resources-4A90D9?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![Templates](https://img.shields.io/badge/free%20templates-5%2B-brightgreen?style=flat-square)
-![Stars](https://img.shields.io/github/stars/openclaw/openclaw-free-resources?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Adonyth/openclaw-free-resources?style=flat-square)
 
 **Free legal templates and AI productivity resources for freelancers, consultants, and researchers.**
 
@@ -18,6 +18,7 @@ Everything in this repo is free to use. Each file is a standalone, ready-to-use 
 | File | What It Is |
 |------|-----------|
 | [`free-samples/freelance-client-agreement-sample.md`](free-samples/freelance-client-agreement-sample.md) | 1-page simplified freelance client agreement template |
+| [`free-samples/non-disclosure-agreement-sample.md`](free-samples/non-disclosure-agreement-sample.md) | Mutual NDA template — ready to sign, with usage guide |
 | [`free-samples/consulting-intro-template.md`](free-samples/consulting-intro-template.md) | Consulting engagement intro email + letter of engagement outline |
 | [`free-samples/5-claude-prompts-for-research.md`](free-samples/5-claude-prompts-for-research.md) | 5 high-quality Claude/ChatGPT prompts for academic research |
 | [`free-samples/n8n-workflow-email-triage-overview.md`](free-samples/n8n-workflow-email-triage-overview.md) | How to build an email triage automation with n8n + Claude |
